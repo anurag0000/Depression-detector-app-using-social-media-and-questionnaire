@@ -106,9 +106,4 @@ Using the same data set to test my accuracy, I trained and tested about 10,000 T
 </ul>
 
 
-<h2 id="acknowledgement">Acknowledgement </h2>
-
-<p>
-	This work is not possible without the overwhelming support from <strong>Jeju National University</strong>, <strong>Jeju Development Center</strong> and other selfless sponsors. I would like to specifically give a big thanks to <strong>Prof. Yungcheol Byun</strong> for being the best host ever and my mentor <strong>Dr. Bobby Gerardo</strong> for the help and guidance.
-</p>
 
