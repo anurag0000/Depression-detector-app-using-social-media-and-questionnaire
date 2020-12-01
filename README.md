@@ -86,7 +86,7 @@ Using the same data set to test my accuracy, I trained and tested about 10,000 T
 </ul>
 
 
-<h2>Future Plans  -  향후 계획</h2>
+<h2>Future Plans</h2>
 <p>This study is not yet perfect and im still aiming to improve it.</p>
 
 <ul>
