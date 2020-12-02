@@ -25,9 +25,9 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 <p>The aim of the project is to predict early signs of depression through <strong>Social Media</strong> text mining. Below are the steps to run the python codes using the data sets uploaded in the repositories or you can download your own.</p>
 
-<img src="https://i.ibb.co/5vHttnS/bb.png"/>
+<img src="flowchart.jpg"/>
+<p><strong>Follow steps below:</strong></p>
 
-<strong>Follow steps below:</strong>
 <ol>
 	<li>Create a twitter developers account (<a href="https://developer.twitter.com/" target="_new"> Register Here</a>), From that account your would need 4 things.
 	</li>
